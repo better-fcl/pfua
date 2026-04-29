@@ -1,5 +1,5 @@
 # PFUA
-Implementation and tooling setup notes for the paper: **Interleaved Tool-Call Reasoning for Protein Function Understanding** (https://arxiv.org/abs/2601.03604)
+Implementation and tooling setup notes for the paper: **Interleaved Tool-Call Reasoning for Protein Function Understanding** (https://arxiv.org/abs/2601.03604, https://huggingface.co/datasets/tszs/pfua)
 
 
 ---
